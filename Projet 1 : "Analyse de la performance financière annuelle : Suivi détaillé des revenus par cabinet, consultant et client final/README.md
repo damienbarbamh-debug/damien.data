@@ -1,2 +1,2 @@
-Ce dossier à pour but d'évaluer la performance des points ventes physique et digital d'une enseigne fictive 
-Voici le code SQL utilisé : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/0
+Contexte : plusieurs Cabinets de Conseils veulent déterminer les revenues qu'ils ont générées sur l'ensemble de l'année tout en affichant les noms de leurs consultants de leur client finaux et la rentabilité par mission.
+Source de donnée : Ce script génère une vue consolidée des revenus générés sur l'exercice, il articule une triple jointure pour réconcilierLes Cabinets/Les Consultants/Les Clients Finaux https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/20
