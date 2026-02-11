@@ -21,8 +21,7 @@ Mon travail repose sur un cycle complet pour garantir la fiabilité des analyses
 
 ## 📂 Organisation du Portfolio
 Ce dépôt est structuré par secteurs d'activité pour refléter les réalités métiers :
-* 🛒 **Retail** : Analyses de ventes, gestion de stocks et rentabilité.
-* 🚀 **Transports** : Optimisation de flux, suivi logistique et analyse de mobilité.
+* 💼 **Consulting IT services** : Analyse de la performance financière, facturation consultants et audit des revenus.
 * 📉 **Finance** : Reporting de gestion et suivi budgétaire.
 
 *Note : Pour consulter les fichiers sources (Power BI, Excel, SQL), explorez les dossiers ci-dessus.*
