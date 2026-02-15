@@ -1,38 +1,35 @@
-# 📊 Data Analyst Portfolio | Damien Barba
+📊 Data Analyst | Pilotage de la Performance & Insights Business
+Bienvenue sur mon portfolio. Je me concentre actuellement sur l'Analyse de la Performance, avec une expertise particulière dans la sécurisation des revenus et l'optimisation des marges commerciales.
 
-Bienvenue sur mon espace de travail. Passionné par l'exploitation des données, je me spécialise dans la transformation de flux d'informations brutes en tableaux de bord stratégiques et insights actionnables.
+Objectif : Transformer des données brutes en leviers de croissance et de pérennité économique.
 
----
+🎯 Mes Piliers de Spécialisation
+📈 Pilotage de la Performance (Expertise Actuelle)
+Analyse de la Pérennité des Revenus (Consulting IT) : Audit de la structure du CA, détection des dépendances clients et suivi de la contribution des consultants.
 
-## 🚀 Ma Démarche Analytics
-Mon travail repose sur un cycle complet pour garantir la fiabilité des analyses :
-1. **Extraction & Nettoyage** : Traitement des données via SQL et Excel pour garantir une "Single Source of Truth".
-2. **Analyse Exploratoire** : Identification des tendances, des anomalies et des opportunités de croissance.
-3. **Visualisation Storytelling** : Conception de dashboards interactifs (Power BI/Tableau) centrés sur l'expérience utilisateur et l'aide à la décision.
+Performance Commerciale (Retail) : Analyse des marges et suivi des ventes.
 
----
+⚙️ Efficacité Opérationnelle & Logistique (En cours de déploiement)
+Projet à venir : Optimisation des flux de stock et analyse des délais de livraison (Supply Chain).
 
-## 🛠️ Stack Technique
-* **Analyse & Statistiques** : Excel (Pivot, Power Query), SQL (PostgreSQL, MySQL).
-* **Data Visualization** : Power BI, Tableau Software.
-* **Secteurs d'intérêt** : Retail, Supply Chain, Transports & Performance Opérationnelle.
+Focus : Réduction du gaspillage et fluidification des processus métier.
 
----
+👤 Marketing & Customer Insights (Vision Future)
+Compréhension du comportement d'achat et segmentation client (RFM) pour booster la fidélisation.
 
-## 📂 Organisation du Portfolio
-Ce dépôt est structuré par secteurs d'activité pour refléter les réalités métiers :
-* 💼 **Consulting IT services** : Analyse de la performance financière, facturation consultants et audit des revenus.
-* 📉 **Finance** : Reporting de gestion et suivi budgétaire.
+🛠️ Stack Technique
+Langages & Requêtage : SQL (PostgreSQL, MySQL) - Maîtrise des jointures complexes pour l'audit de flux.
 
-*Note : Pour consulter les fichiers sources (Power BI, Excel, SQL), explorez les dossiers ci-dessus.*
+Analyse & Traitement : Excel (Power Query, TCD).
 
----
+Visualisation : Power BI, Tableau Software.
 
-## 📫 Me contacter
-Je suis toujours ouvert aux échanges autour de la data et des nouvelles technologies de BI.
-* **LinkedIn** : [Damien Barba](https://www.linkedin.com/in/damien-barba/)
-* **Email** : [damienbarba8@gmail.com](mailto:damienbarba8@gmail.com)
-* **Portfolio Notion** : *[Lien en cours de création]*
+📂 Projets Phares
+💼 Consulting IT - Audit de Revenus : Comment maintenir et sécuriser le CA d'un cabinet face aux risques de dépendance clients.
 
----
-*« Les données sont le nouveau pétrole, mais l'analyse est le moteur qui permet de les raffiner. »*
+📉 Retail - Performance Ventes : Analyse de la rentabilité d'une entreprise de chaussures.
+
+📫 Me contacter
+LinkedIn : Damien Barba
+
+Email : damienbarba8@gmail.com
