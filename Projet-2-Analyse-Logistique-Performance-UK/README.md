@@ -1,22 +1,18 @@
+                                                  Contexte 
+L'objectif principal était d'identifier l'origine du ralentissement de l'activité sur la zone UK par rapport à la zone UE, afin de proposer des leviers de redressement stratégiques.
 
-Objectif du Projet
-L'étude vise à expliquer la baisse de rentabilité sur le marché britannique par rapport à la zone Europe et à proposer des solutions stratégiques concrètes.
+                                                  Justification du Contexte
+Le diagnostic met en lumière deux freins majeurs à la croissance dans cette région : 
 
-Conclusions Majeures
+Les frais de logistique à l'unité au UK s'élèvent à 21,59 € contre 5,11 € en UE. Ce coût, quatre fois supérieur, pénalise soit le client final (baisse du panier moyen via le transport et les douanes), soit la marge de l'entreprise selon l'Incoterm choisi (DAP/DDP)
 
-Le problème logistique : Les frais d'expédition vers le Royaume-Uni sont 4 fois plus élevés qu'en UE (21,59 € contre 5,11 €).
+Le réseau compte 27 points de vente en UE contre seulement 4 au UK. Cette disparité limite les options d'achat local pour les clients souhaitant éviter les contraintes et frais liés à l'e-commerce international.
 
-L'impact des Incoterms : En DDP, l'entreprise absorbe les taxes, ce qui réduit la marge. En DAP, le client paie les taxes, ce qui freine les ventes.
+                                                   Recommendations 
+Lancer un benchmark et un appel d'offres transporteurs pour réduire le coût unitaire vers le UK et optimiser les processus douaniers afin de regagner en compétitivité prix.
 
-Le manque de présence physique : La dépendance au e-commerce au UK empêche la massification des flux, contrairement au réseau Retail européen.
+Envisager l'ouverture de nouveaux points de vente physiques au UK. Cela permettrait de mutualiser les flux logistiques (envois groupés B2B plutôt que B2C individuels) et de contourner les barrières douanières pour le client final.
 
-Solutions Préconisées
+Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/21
 
-Ouverture de points de vente au Royaume-Uni pour basculer vers une logistique B2B groupée.
-
-Renégociation des contrats de transport pour diminuer les frais fixes de dédouanement.
-
-- Lien SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/21
-
-- Lien Power BI : https://app.powerbi.com/groups/me/reports/3dfacd10-ea3c-496e-8b8b-a258b3d140f0/a0dc2bce7afe9e6d5e5d?experience=power-bi
-  
+Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/3dfacd10-ea3c-496e-8b8b-a258b3d140f0/a0dc2bce7afe9e6d5e5d?experience=power-bi
