@@ -21,4 +21,5 @@ Envisager le recrutement d'un second profil Senior ou Expert pour épauler les p
 
 
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/20
+
 Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/838646b4-8476-4228-ba4d-ce513782cba8/80298c2633a58a8aec71?experience=power-bi
