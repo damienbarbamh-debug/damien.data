@@ -1,4 +1,4 @@
-Data Analyst | Spécialisé en Pilotage de la Performance
+📊Data Analyst | Spécialisé en Pilotage de la Performance
 1) Bienvenue sur mon portfolio. Je suis un Data Analyst focalisé sur l'Analyse de la Performance Business.
 
 2) Mon expertise réside dans la capacité à auditer des flux complexes pour sécuriser les revenus et optimiser les marges, indépendamment du secteur d'activité.
