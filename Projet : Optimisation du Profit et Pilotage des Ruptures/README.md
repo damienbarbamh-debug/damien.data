@@ -1,10 +1,10 @@
-Objectif du Projet
+Objectif du Projet : 
 L'enjeu : Transformer une gestion de stock purement quantitative en un pilotage stratégique par la valeur.
 
 
 La problématique : Identifier les risques de rupture sur les produits à forte contribution de marge pour garantir la rentabilité de l'entreprise (Spécialisation : Inventory Optimization Analyst ).
 
-Points Clés du Dashboard
+Points Clés du Dashboard : 
 
 Analyse de la Valeur : Identification des catégories (Maison, Tech) et des canaux (Web) générant la plus forte marge brute (Expertise : Revenue Analyst ).
 
@@ -16,7 +16,7 @@ Calcul du Manque à Gagner : Mesure DAX spécifique isolant le profit "perdu" ou
 
 Priorisation Logistique : Extraction automatique d'une "Action List" (Top 5 produits prioritaires) pour sécuriser la croissance (Métier : Logistics Data Analyst ).
 
-Impact Business
+Impact Business : 
 
 Diagnostic de Rentabilité : Le dashboard révèle que 26,57% de la marge totale est actuellement menacée par des ruptures de stock (Spécialisation : Risk Modeling Specialist ).
 
