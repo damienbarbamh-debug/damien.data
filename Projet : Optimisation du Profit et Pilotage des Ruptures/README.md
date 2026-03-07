@@ -2,7 +2,7 @@
 - L'enjeu de ce projet est de transformer une gestion de stock purement quantitative en un pilotage stratégique par la valeur. 
 
 - L'objectif est d'identifier les risques de rupture sur les produits à forte contribution de marge pour garantir la rentabilité de l'entreprise.
-                                                   - Point Clés du Dashboard
+                                                   Point Clés du Dashboard
 - Analyse de la Valeur : Identification des catégories (Maison, Tech) et des canaux (Web) générant la plus forte marge brute.
 
 - Matrice d'Alerte Dynamique : Comparaison en temps réel entre le stock disponible et le seuil d'alerte, classée par importance de marge (Loi de Pareto).
@@ -20,3 +20,4 @@
 - Réduire le manque à gagner financier lié aux défauts de disponibilité.
 
 Lien du schéma SQL qui a servit de base : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/26
+Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/525b90e5-ed12-482e-8bd8-a4ebbb34fee0/7354aa80003306703036?experience=power-bi
