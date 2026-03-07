@@ -1,12 +1,16 @@
-1. Contexte
-Dans le cadre de la réglementation bancaire sur la connaissance client (KYC), ce projet vise à piloter la conformité d'un portefeuille de 24 millions d'euros d'encours à la Société Générale. Le dashboard identifie les dossiers clients dont les justificatifs sont expirés ou manquants, classant le risque par ancienneté (de 0 à plus de 1000 jours) pour assurer la sécurité financière de l'entité.
+Contexte Quelle est la santé de la conformité de notre portefeuille ? Sommes-nous en train de maintenir une exposition financière critique sur des dossiers dont la documentation est périmée ?
+Justification du Contexte
 
-2. Hypothèse
-L'hypothèse centrale est que la concentration du risque financier est corrélée à l'ancienneté des dossiers non traités : plus un dossier est en retard, plus le risque de non-conformité réglementaire est élevé. En isolant les segments les plus critiques (notamment le secteur du Luxe qui représente une part majeure des encours), nous supposons qu'une action ciblée sur les 10 dossiers les plus anciens permettrait de régulariser plus de 60% de l'exposition financière à court terme.
+Le cycle de renouvellement échoue totalement à maintenir la conformité. Le segment critique des dossiers non conformes bascule dans une zone de risque majeur avec des retards dépassant les 1100 jours pour des entités comme TechStart Solutions.
 
-3. Recommandations
-Priorisation Immédiate : Concentrer les efforts des analystes KYC sur le segment "1000+ jours" qui représente la menace réglementaire la plus immédiate.
+Une part critique de la sécurité financière est menacée. 24 millions d'euros d'encours sont actuellement liés à des dossiers KYC expirés, représentant une part de conformité globale de seulement 16 %.
 
-Alerte Sectorielle : Allouer des ressources supplémentaires au secteur "Luxe", ce dernier étant le contributeur principal au volume d'encours à risque.
+La segmentation sectorielle expose une concentration massive du risque sur le Luxe. Le secteur Luxe est le contributeur principal, représentant à lui seul 42,61 % des engagements totaux, soit 450 millions d'euros sous surveillance.
 
-Automatisation : Mettre en place un système de notifications automatiques pour les conseillers clients 90 jours avant la date d'expiration afin de supprimer les retards de la tranche "0-180 jours".
+Recommendations
+
+Prioriser une remédiation ciblée et urgente sur les dossiers du Top 10 ancienneté afin de régulariser immédiatement les entités ayant plus de 500 jours de retard et sécuriser ainsi les encours les plus exposés.
+
+Implémenter un monitoring renforcé sur le secteur Luxe pour stabiliser le noyau dur des revenus de l'entité, conformément aux missions d'un Risk Modeling Specialist.
+
+Mettre en place des alertes automatiques avant expiration pour réduire le nombre de dossiers basculant dans la catégorie "critique" et ainsi améliorer le taux de conformité général.
