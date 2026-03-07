@@ -1,5 +1,6 @@
                                                    Objectif du Projet
 L'enjeu de ce projet est de transformer une gestion de stock purement quantitative en un pilotage stratégique par la valeur. 
+
 L'objectif est d'identifier les risques de rupture sur les produits à forte contribution de marge pour garantir la rentabilité de l'entreprise.
                                                    Points Clés du Dashboard
 Analyse de la Valeur : Identification des catégories (Maison, Tech) et des canaux (Web) générant la plus forte marge brute.
