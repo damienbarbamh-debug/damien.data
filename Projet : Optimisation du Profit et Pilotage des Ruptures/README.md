@@ -30,6 +30,6 @@ Efficacité Opérationnelle : Optimisation de l'espace en entrepôt en isolant l
 Performance Financière : Réduction directe du manque à gagner financier lié aux défauts de disponibilité (Expertise : Business Data Analyst ).
 
 🔗 Ressources Techniques
-Schéma SQL (Base de données) : Accéder au DB-Fiddle
+Schéma SQL (Base de données) : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/26
 
-Rapport Interactif Power BI : Voir le Dashboard
+Rapport Interactif Power BI : Voir le Dashboard : https://app.powerbi.com/groups/me/reports/525b90e5-ed12-482e-8bd8-a4ebbb34fee0/7354aa80003306703036?experience=power-bi
