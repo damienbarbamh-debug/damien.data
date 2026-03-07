@@ -14,3 +14,5 @@ Prioriser une remédiation ciblée et urgente sur les dossiers du Top 10 ancienn
 Implémenter un monitoring renforcé sur le secteur Luxe pour stabiliser le noyau dur des revenus de l'entité, conformément aux missions d'un Risk Modeling Specialist.
 
 Mettre en place des alertes automatiques avant expiration pour réduire le nombre de dossiers basculant dans la catégorie "critique" et ainsi améliorer le taux de conformité général.
+
+Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/25
