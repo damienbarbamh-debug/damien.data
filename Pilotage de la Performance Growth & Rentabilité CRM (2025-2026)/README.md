@@ -21,7 +21,7 @@ Le Segment Actif (Le gisement inexploité) : Ils présentent un ROI élevé mais
 
 Diagnostic : Chaque vente sur ce segment est très rentable, mais nous ne les sollicitons pas assez ou avec un message trop faible pour déclencher l'achat massif.
 
-                                                                                    4. Recommandations Actionnables
+                                                                        4. Recommandations Actionnables
   A. Arbitrage Budgétaire (Le "Stop & Go")
 STOP : Désengagement immédiat des campagnes à ROI < 2% (Noël Magique, Branding Spring). Ce budget est actuellement "brûlé" sans impact sur la marge.
 
