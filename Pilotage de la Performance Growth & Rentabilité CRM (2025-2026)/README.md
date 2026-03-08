@@ -32,11 +32,7 @@ Basculer le segment VIP sur des canaux de rétention gratuits (E-mailing, CRM, n
 
 Objectif : Maintenir leur CA fort tout en supprimant les frais d'acquisition pour faire exploser la marge nette sur ce segment.
 
-C. Optimisation du Tunnel TikTok/Social
-Le taux de clic est bon mais la conversion est faible sur TikTok : ce n'est pas un problème d'audience, mais de page d'atterrissage (LPs).
-
-Action : Créer des pages mobiles plus fluides et des offres "coup de poing" pour transformer les clics des Actifs en achats immédiats.
-
-                                                                                     5. Ressources
+                                                                       5. Ressources
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/23
+Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/356e0345-25a3-4737-9e2d-9a6cee5f2f16/598529b59481c26dc37a?experience=power-bi
 
