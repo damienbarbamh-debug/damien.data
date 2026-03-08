@@ -1,4 +1,6 @@
-Contexte Quelle est la santé de la conformité de notre portefeuille ? Sommes-nous en train de maintenir une exposition financière critique sur des dossiers dont la documentation est périmée ?
+                                                                                           Contexte 
+                                                                                           
+Quelle est la santé de la conformité de notre portefeuille ? Sommes-nous en train de maintenir une exposition financière critique sur des dossiers dont la documentation est périmée ?
 Justification du Contexte
 
 Le cycle de renouvellement échoue totalement à maintenir la conformité. Le segment critique des dossiers non conformes bascule dans une zone de risque majeur avec des retards dépassant les 1100 jours pour des entités comme TechStart Solutions.
@@ -7,7 +9,7 @@ Une part critique de la sécurité financière est menacée. 24 millions d'euros
 
 La segmentation sectorielle expose une concentration massive du risque sur le Luxe. Le secteur Luxe est le contributeur principal, représentant à lui seul 42,61 % des engagements totaux, soit 450 millions d'euros sous surveillance.
 
-Recommendations
+                                                                                     Recommendations
 
 Prioriser une remédiation ciblée et urgente sur les dossiers du Top 10 ancienneté afin de régulariser immédiatement les entités ayant plus de 500 jours de retard et sécuriser ainsi les encours les plus exposés.
 
