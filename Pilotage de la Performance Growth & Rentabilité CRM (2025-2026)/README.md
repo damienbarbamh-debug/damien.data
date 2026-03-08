@@ -1,4 +1,5 @@
 Contexte
+
 L'objectif principal était d'évaluer la rentabilité et l'efficacité des campagnes d'acquisition multi-canaux sur la période 2025-2026, afin d'optimiser le ROI global et d'affiner la stratégie de segmentation entre les clients "Actifs" et "VIP".
 
 Justification du Contexte
