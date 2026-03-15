@@ -5,8 +5,18 @@
 3. Mes Projets d'Analyse : Du Cas d'étude à la Solution Business
 4. Vous trouverez ci-joint des projets qui démontre ma démarche: auditer, analyser, visualiser et recommander.
 
-💼Projet 1) Audit & Optimisation de la rentabilité CRM
+💼Projet 1) Audit & Optimisation de la rentabilité & Mix Marketing
+1. Le défi : Arbitrer entre volume de vente et profit net sur une base clients complexe.
+2. l'impact : Détection d'un sur-investissement sur les segments à faible marge et recommendations de réallocaction vers des niches à très haut ROI.
 
-1. Contexte : une entreprise investit de manière massive dans son marketing que ce soit au niveau de ses campagnes et de son CRM. Mais une stagnation du chiffre d'affaire global est constatée malgré l'augmentation des budgets publicitaires.
-2. Hypothèse : le budget est mal réparti, une trop grande partie des ressources est allouée à des segments de clients déjà acquis et fidèles (VIP)
-3. Recommendation : prévoir de répartir 25% du budget "Fidélisation VIP vers des campagnes d'acquisition de nouveaux clients pour relancer la croissance.
+🚛 2. Performance Logistique & Analyse Douanière (UK)
+1. Le défi : sSécuriser les marges au UK face à l'exploision des frais de douane
+2. L'impact : Modélisation des points d'équilibre financiers permettant de diviser les coûts unitaires de dédouanement.
+
+📦 3. Audit des Ruptures de Stock & Manque à Gagner
+1. Le défi Quantifier l'impact financier réel de l'indisponibilité des "Best-Sellers".
+2. L'impact : Mise en place d'un pilotage de rotation pour réduire le manque à gagner et sécuriser la marge brute globale.
+
+🛠️4. Ma Stack Technique
+1. Langages & Requêtage : SQL pour des reqêutes complexes et structurées (JOINS, CTE, Window Functions)
+2. Dataviz : Power BI(DAX, Langage M) pour réaliser des tableaux de bord percutants. 
