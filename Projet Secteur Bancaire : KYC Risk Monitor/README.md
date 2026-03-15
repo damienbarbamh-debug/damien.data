@@ -1,6 +1,6 @@
                                                                                            Contexte 
                                                                                            
-Quelle est la santé de la conformité de notre portefeuille ? Sommes-nous en train de maintenir une exposition financière critique sur des dossiers dont la documentation est périmée ?
+Analyser la santé de la conformité du portefeuille ? Sommes-nous en train de maintenir une exposition financière critique sur des dossiers dont la documentation est périmée ?
 
                                                                                      Justification du Contexte
 
