@@ -13,6 +13,6 @@ Lancer un benchmark et un appel d'offres transporteurs pour réduire le coût un
 
 Envisager l'ouverture de nouveaux points de vente physiques au UK. Cela permettrait de mutualiser les flux logistiques (envois groupés B2B plutôt que B2C individuels) et de contourner les barrières douanières pour le client final.
 
-Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/21
+Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/33
 
 Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/3dfacd10-ea3c-496e-8b8b-a258b3d140f0/a0dc2bce7afe9e6d5e5d?experience=power-bi
