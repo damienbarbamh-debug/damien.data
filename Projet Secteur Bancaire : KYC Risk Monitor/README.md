@@ -18,6 +18,6 @@ Implémenter un monitoring renforcé sur le secteur Luxe pour stabiliser le noya
 
 Mettre en place des alertes automatiques avant expiration pour réduire le nombre de dossiers basculant dans la catégorie "critique" et ainsi améliorer le taux de conformité général.
 
-Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/25
+Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/32
 
 Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/a5bddf31-b570-41eb-be87-f9653f708d71/9e20cc25e78ed50c2151?experience=power-bi
