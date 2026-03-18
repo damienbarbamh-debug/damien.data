@@ -9,14 +9,14 @@ Projet 1) Audit & Optimisation de la rentabilité & Mix Marketing
 1. Le défi : Arbitrer entre volume de vente et profit net sur une base clients complexe.
 2. l'impact : Détection d'un sur-investissement sur les segments à faible marge et recommendations de réallocaction vers des niches à très haut ROI.
 
- 2. Pilotage des Risques : KYC Risk Monitor (Secteur Bancaire)
+Projet 2) Pilotage des Risques : KYC Risk Monitor (Secteur Bancaire)
 1. Le défi : Automatiser la détection des dossiers clients non conformes avant les échéances réglementaires 
 2. L'impact : Mise en place d'un score de risque dynamqiue permettant de prioriser les audits sur les comptes critiques et de sécuriser la conformité de l'onboarding.
-   
- 3. Audit des Ruptures de Stock & Manque à Gagner
+
+Projet 3) Audit des Ruptures de Stock & Manque à Gagner
 1. Le défi Quantifier l'impact financier réel de l'indisponibilité des "Best-Sellers".
 2. L'impact : Mise en place d'un pilotage de rotation pour réduire le manque à gagner et sécuriser la marge brute globale.
 
-4. Ma Stack Technique
+   Ma Stack Technique
 1. Langages & Requêtage : SQL pour des reqêutes complexes et structurées (JOINS, CTE, Window Functions)
 2. Dataviz : Power BI(DAX, Langage M) pour réaliser des tableaux de bord percutants. 
