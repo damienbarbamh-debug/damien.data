@@ -20,4 +20,5 @@ Focus sur le secteur du transport : il faut lancer une action immédiate pour r�
 Assainissement des dossiers "1000 jours et +" : exiger une mise à jour dans un délai de 15 jours pour tous les dossiers ayant dépassé le seuil critique de 1 000 jours d'ancienneté, sous peine de gel des comptes. 
 
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/32
+Lien du schéma Power BI : télécharger le dossier pbix dans la description, le rapport est également disponible en PDF pour une consultation directe de l'analyse
 
