@@ -21,4 +21,3 @@ Assainissement des dossiers "1000 jours et +" : exiger une mise à jour dans un 
 
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/32
 
-Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/a5bddf31-b570-41eb-be87-f9653f708d71/9e20cc25e78ed50c2151?experience=power-bi
