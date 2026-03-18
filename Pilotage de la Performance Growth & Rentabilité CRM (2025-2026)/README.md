@@ -33,5 +33,5 @@ L'Objectif est de maintenir leur CA fort tout en supprimant les frais d'acquisit
                                                                        5. Ressources
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/34
 
-Lien du schéma Power BI : https://app.powerbi.com/groups/me/reports/356e0345-25a3-4737-9e2d-9a6cee5f2f16/598529b59481c26dc37a?experience=power-bi
+Lien du schéma Power BI : télécharger le dossier pbix dans la description 
 
