@@ -15,4 +15,4 @@ Envisager l'ouverture de nouveaux points de vente physiques au UK. Cela permettr
 
 Lien du schéma SQL : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/33
 
-Lien du schéma Power BI : télécharger le dossier pbix dans la description 
+Lien du schéma Power BI : télécharger le dossier pbix dans la description, le rapport est également disponible en PDF pour une consultation directe de l'analyse.
