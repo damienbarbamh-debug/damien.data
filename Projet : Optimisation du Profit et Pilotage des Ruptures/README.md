@@ -20,4 +20,4 @@ Ce qui aura pour conséquence de réduire le manque à gagner financier lié aux
  Ressources Techniques
 Schéma SQL (Base de données) : https://www.db-fiddle.com/f/mEmnbTg1wCDQXCdPNB2d5F/26
 
-Rapport Interactif Power BI : télécharger le dossier pbix dans la description 
+Rapport Interactif Power BI : télécharger le dossier pbix dans la description, le rapport est également disponible en PDF pour une consultation directe de l'analyse. 
