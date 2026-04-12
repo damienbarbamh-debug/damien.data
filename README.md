@@ -1,6 +1,6 @@
-📊Data Analyst | Transformer la Donnée en Levier de Rentabilité
+📊Analyseur de Performance | Transformer la Donnée en Levier de Décision
 
-1. Bienvenue sur mon portfolio. Je suis Damien Barba, futur Data Analyst passionné par l'analyse de performance business.
+1. Bienvenue sur mon portfolio. Je suis Damien Barba, Mon métier consiste à faire parler les chiffres pour optimiser les résultats de l'entreprise.
 2. Issu d'un parcours rigoureux en finance, j'ai développé une passion pour l'analyse de donnée , aujourd'hui j'utilise la data pour passer d'un simple constat à l'action stratégique.
 3. Mes Projets d'Analyse : Du Cas d'étude à la Solution Business
 4. Vous trouverez ci-joint des projets qui démontre ma démarche: auditer, analyser, visualiser et recommander.
